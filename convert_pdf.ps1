@@ -1,6 +1,6 @@
 $edge = "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 $htmlPath = "d:\New folder\Portfolio\cv_template.html"
-$pdfPath = "d:\New folder\Portfolio\Burhan_Ahmed_CV.pdf"
+$pdfPath = "d:\New folder\Portfolio\Burhan_Flutter_CV.pdf"
 $userData = "C:\Users\user\AppData\Local\Temp\edge_pdf_profile_clean"
 
 if (Test-Path $userData) {
